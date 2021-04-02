@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create New Home page Banner",
+      "details": "Shiv Patel",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Make Marketing Email",
+      "details": "Email Shiv Patel",
+      "complete": true
+    },
+    {
+      "title": "Gamma Machine Learning ",
+      "details": "This is a gamma machine learning Project. A very powerful tool to measure Gamma Radius.",
+      "complete": false,
+      "id": 3
+    },
+    {
+      "title": "This is new FireBase Project",
+      "details": "The New FireBase Project will be used as new high level project.",
+      "complete": false,
+      "id": 4
+    }
+  ]
+}
