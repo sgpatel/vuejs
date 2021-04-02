@@ -9,13 +9,14 @@
 export default {
     data(){
         return{
-            jobs:[
-                {title:'Java developer',id : 1, details: 'java' },
-                {title:'fornt end Developer', id:2, details:'Html Css'},
-                {title:'Dotnet Developer',id:3, details:' C shorp'}
-
-            ]
+            jobs:[]
         }
+    },
+    mounted(){
+        fetch("http://localhost:3000/jobs")
+        .then((res)=>res.json())
+        .then(data=>this.jobs =data)
+        .catch(err=>console.log(err))
     }
 }
 </script>
