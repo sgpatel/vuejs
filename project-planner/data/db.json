@@ -8,21 +8,15 @@
     },
     {
       "id": 2,
-      "title": "Make Marketing Email",
-      "details": "Email Shiv Patel",
-      "complete": true
+      "title": "Make Marketing Email Secure",
+      "details": "Marketing element  email can not be changed in future. ",
+      "complete": false
     },
     {
       "title": "Gamma Machine Learning ",
-      "details": "This is a gamma machine learning Project. A very powerful tool to measure Gamma Radius.",
+      "details": "This is a gamma machine learning Project. A very powerful tool to measure Gamma Radius. Now this is edited.",
       "complete": false,
       "id": 3
-    },
-    {
-      "title": "This is new FireBase Project",
-      "details": "The New FireBase Project will be used as new high level project.",
-      "complete": false,
-      "id": 4
     }
   ]
 }
